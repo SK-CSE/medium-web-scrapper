@@ -1,12 +1,15 @@
 # medium-web-scrapper
 Recursively crawl popular blogging website https://medium.com using Node.js and harvest all possible hyperlinks that belong to medium.com and store them in mongoDB
 
-## To run Application
+## this application is also deployed on heroku
+https://web-scraper-sk.herokuapp.com/
+
+## To run Application locally
 
 clone the project run the below command
 
 ```bash
-$ npm install // to install project dependencies
+$ npm i // to install project dependencies
 
 $ node index.js // to run server
 ```

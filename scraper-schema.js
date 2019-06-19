@@ -8,6 +8,6 @@ const scraperSchema = new Schema({
         type: String,
         unique: true
     },
-    reference_count: Number,
+    totalRef: Number,
     params: String
 });
